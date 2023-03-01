@@ -1,4 +1,3 @@
-// Import the express in typescript file
 import express from 'express'
 
 

@@ -23,7 +23,7 @@ const _DB_URL_W = (): string => {
   const DB_HOST = process.env?.DB_W_HOST || process.env?.DB_HOST || ""
   const DB_PORT = process.env?.DB_W_PORT || process.env?.DB_PORT || "3306"
   const DB_USERNAME = process.env?.DB_W_USERNAME || process.env?.DB_USERNAME || ""
-  const DB_PASSWORD = process.env?.DB_W_USERNAME || process.env?.DB_PASSWORD || "3306"
+  const DB_PASSWORD = process.env?.DB_W_PASSWORD || process.env?.DB_PASSWORD || "3306"
 
   return _DB_URL(DB_CONNECTION, DB_HOST, DB_PORT, DB_USERNAME, DB_PASSWORD)
 }
@@ -33,7 +33,7 @@ const _DB_URL_R = (): string => {
   const DB_HOST = process.env?.DB_R_HOST || process.env?.DB_HOST || ""
   const DB_PORT = process.env?.DB_R_PORT || process.env?.DB_PORT || "3306"
   const DB_USERNAME = process.env?.DB_R_USERNAME || process.env?.DB_USERNAME || ""
-  const DB_PASSWORD = process.env?.DB_R_USERNAME || process.env?.DB_PASSWORD || "3306"
+  const DB_PASSWORD = process.env?.DB_R_PASSWORD || process.env?.DB_PASSWORD || "3306"
 
   return _DB_URL(DB_CONNECTION, DB_HOST, DB_PORT, DB_USERNAME, DB_PASSWORD)
 }

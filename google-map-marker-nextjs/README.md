@@ -1,3 +1,9 @@
+### Tech
+
+**Tech**: NextJS + TailwindCSS + Google Map API
+
+**Package**: @googlemaps/js-api-loader, @googlemaps/markerclusterer, @types/googlemaps
+
 ### For Running
 
 #### 1. Update Google API source
@@ -11,11 +17,7 @@ REACT_APP_GOOGLE_MAPS_API_KEY="YOUR_API_KEY";
 ```
 docker-compose up
 ```
-### Tech
-
-**Tech**: NextJS + TailwindCSS + Google Map API
-
-**Package**: @googlemaps/js-api-loader, @googlemaps/markerclusterer, @types/googlemaps
 
 ### Result
-<img width="1313" alt="Screenshot 2023-04-28 at 11 09 46" src="https://user-images.githubusercontent.com/76934994/235052194-60cb1b1e-8573-4052-88d4-fcbf81430d3e.png">
+
+<img width="1267" alt="Screenshot 2023-04-28 at 11 09 54" src="https://user-images.githubusercontent.com/76934994/235052806-910d85c8-33ed-4c51-94d2-c2d53849d0c3.png">

@@ -1,0 +1,19 @@
+[
+    { "shopName": "ShopName 1", "lat": 35.6926136, "lng": 139.7063534, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 2", "lat": 35.6614887, "lng": 139.7005798, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 3", "lat": 35.7280174, "lng": 139.7127983, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 4", "lat": 35.6741124, "lng": 139.7638503, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 5", "lat": 35.6956271, "lng": 139.8104536, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 6", "lat": 35.70966, "lng": 139.7730766, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 7", "lat": 35.700682, "lng": 139.4147263, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 8", "lat": 35.5431966, "lng": 139.4452501, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 9", "lat": 35.9089272, "lng": 139.6259834, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 10", "lat": 35.6100194, "lng": 140.1187267, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 11", "lat": 35.8614378, "lng": 139.9708705, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 12", "lat": 34.7072565, "lng": 135.4962494, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 13", "lat": 38.2619921, "lng": 140.8815318, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 14", "lat": 36.2325968, "lng": 137.9682199, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 15", "lat": 36.6437212, "lng": 138.187067, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 16", "lat": 34.3921324, "lng": 132.4627135, "time": "11:00〜21:00" },
+    { "shopName": "ShopName 17", "lat": 31.5843525, "lng": 130.544502, "time": "11:00〜21:00" }
+]

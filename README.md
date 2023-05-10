@@ -5,8 +5,7 @@
 **Package**: @googlemaps/js-api-loader, @googlemaps/markerclusterer, @types/googlemaps
 
 ### For Running
-Provide your Google Map API key into file .env in root of the source
-#### If you want to run project using Docker -> do this
+- Provide your Google Map API key into file .env in root of the source
 - `cd` into the root folder of project
 - run the command bellow
 

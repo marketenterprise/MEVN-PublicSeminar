@@ -5,6 +5,7 @@
 **Package**: @googlemaps/js-api-loader, @googlemaps/markerclusterer, @types/googlemaps
 
 ### For Running
+- Important: checkout into branch `issue-7`
 - `cd` into folder: `google-map-marker-nextjs`
 - Provide your Google Map API key into file .env in root of the source
 - Run the command bellow

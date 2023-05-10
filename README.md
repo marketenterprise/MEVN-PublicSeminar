@@ -5,9 +5,9 @@
 **Package**: @googlemaps/js-api-loader, @googlemaps/markerclusterer, @types/googlemaps
 
 ### For Running
+- `cd` into folder: `google-map-marker-nextjs`
 - Provide your Google Map API key into file .env in root of the source
-- `cd` into the root folder of project
-- run the command bellow
+- Run the command bellow
 
 ```
 docker-compose up

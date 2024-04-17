@@ -1,0 +1,6 @@
+node_modules
+vendor
+laravel/storage/*
+!laravel/storage/.gitkeep
+.pnpm-store
+dist

@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  seminar_nest:
+    container_name: seminar_nest
+    image: seminar_nest
+    ports:
+      - 3000:3000
+    build:
+      context: .
+      dockerfile: ./.docker/nest/Dockerfile
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      - ./nest:/app
+    command: sh -c "npm i && npm run start:dev --host 0.0.0.0"

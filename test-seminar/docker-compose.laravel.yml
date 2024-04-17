@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  seminar_laravel:
+    container_name: seminar_laravel
+    image: seminar_laravel
+    ports:
+      - 8000:8000
+    build:
+      context: .
+      dockerfile: ./.docker/laravel/Dockerfile
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      - ./laravel:/app
+    command: sh -c "composer install && php artisan serve --host 0.0.0.0"
